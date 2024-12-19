@@ -1,0 +1,52 @@
+/home/gmpakirtz
+bar.txt
+date_script.sh
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+foo.txt
+input.txt
+Lab05
+Lab1
+Lab12
+lab1.tar.gz
+Lab2
+lab2.tar.gz
+log
+ls.txt
+my_first_script.sh
+new_folder
+OS
+output
+quiz-1
+quiz1
+quiz-1.sh
+quiz1.txt
+quiz-2
+quiz-3
+stderror.txt
+stdout.txt
+Testing
+wc
+mkdir: cannot create directory ‘new_folder’: File exists
+stat: cannot stat 'filename': No such file or directory
+  File: new_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 410822      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1295/gmpakirtz)   Gid: ( 1297/gmpakirtz)
+Access: 2024-12-19 13:09:34.793437220 +0200
+Modify: 2024-12-19 13:09:34.793437220 +0200
+Change: 2024-12-19 13:09:34.793437220 +0200
+ Birth: -
+cp: -r not specified; omitting directory 'source.txt'
+directory/
+directory/
+directory/
+directory/
+Lab05/
+Lab05/
+Lab05/
+Lab05/
