@@ -1,0 +1,16 @@
+Repository URL: https://github.com/gmpakirtz/OS2.git
+
+Thiw repository contains the following:
+
+Lab01
+Lab02
+Lab03
+lab4
+Lab05
+LabX
+
+!There is also a README.md and a lab05.tar.gz file
+
+Also there is a branch named New_feature wich i created
+ in a lab to put in the lab1_4 files. I merged this branch
+into the main but i couldn't erase it.
